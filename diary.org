@@ -1,0 +1,3 @@
+* My Diary
+  This is a test document, to check whether orgmode works
+  
